@@ -1,0 +1,8 @@
+name = practice_theme
+description = A theme for practice
+package = Core
+version = VERSION
+core = 7.x
+screenshot = screen_capture.png
+
+stylesheets[all][] = css/style.css
